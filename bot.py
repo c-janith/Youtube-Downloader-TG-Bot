@@ -5,8 +5,8 @@ from pytube import YouTube
 from functools import wraps
 
 # Define constants
-BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-ADMIN_CHAT_ID = 'YOUR_ADMIN_CHAT_ID'
+BOT_TOKEN = '6738226883:AAF7-qm-f56vQmQ_9qV5Mlu9evWVLy0SGwc'
+ADMIN_CHAT_ID = '1248187876'
 FREE_USER_LIMIT = 1 * 1024 * 1024 * 1024  # 1 GB
 PAID_USER_LIMIT = None  # Unlimited
 FILE_SIZE_LIMIT = 2 * 1024 * 1024 * 1024  # 2 GB
