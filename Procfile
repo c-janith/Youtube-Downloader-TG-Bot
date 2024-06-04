@@ -1,1 +1,1 @@
-web: python bot.py
+echo "web: gunicorn bot:main" > Procfile
